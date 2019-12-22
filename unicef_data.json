@@ -84,7 +84,6 @@
             "children": [
                 { "name": "hello", "value": 8833 },
                 { "name": "goodbye", "value": 1732 },
-                //{ "name": "see ya", "value": 3623 },
                 { "name": "TextSprite", "value": 10066 }
             ]
         },
