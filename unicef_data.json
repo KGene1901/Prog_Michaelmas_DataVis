@@ -82,9 +82,9 @@
         {
             "name": "display",
             "children": [
-                { "name": "DirtySprite", "value": 8833 },
-                { "name": "LineSprite", "value": 1732 },
-                { "name": "RectSprite", "value": 3623 },
+                { "name": "hello", "value": 8833 },
+                { "name": "goodbye", "value": 1732 },
+                //{ "name": "see ya", "value": 3623 },
                 { "name": "TextSprite", "value": 10066 }
             ]
         },
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "name": "util",
+            "name": "utilities",
             "children": [
                 { "name": "Arrays", "value": 8258 },
                 { "name": "Colors", "value": 10001 },
@@ -238,7 +238,7 @@
             ]
         },
         {
-            "name": "vis",
+            "name": "visual",
             "children": [{
                     "name": "axis",
                     "children": [

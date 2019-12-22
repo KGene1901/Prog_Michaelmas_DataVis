@@ -16,7 +16,7 @@ const node = svg.append("g")
     .join("circle")
     .attr("fill", d => d.children ? color(d.depth) : "white")
     .attr("pointer-events", d => !d.children ? "none" : null)
-    .on("mouseover", function() { d3.select(this).attr("stroke", "#000"); })
+    .on('mouseover', function() { d3.select(this).attr("stroke", "#000"); })
     .on("mouseout", function() { d3.select(this).attr("stroke", null); })
     .on("click", d => focus !== d && (zoom(d), d3.event.stopPropagation()));
 
