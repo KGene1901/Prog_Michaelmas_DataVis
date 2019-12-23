@@ -5,10 +5,19 @@
             "children": [{
                     "name": "Health",
                     "children": [
-                        { "name": "Health", "value": 3938 },
-                        { "name": "CommunityStructure", "value": 3812 },
-                        { "name": "HierarchicalCluster", "value": 6714 },
-                        { "name": "MergeEdge", "value": 743 }
+                        { "name": "Support to 23 countries wiht high maternal and neonatal martality", "value": 3940 },
+                        { "name": "Improve WASH services in 3355 health facilities", "value": 3800 },
+                        { "name": "Vaccination of 8.5M women", "value": 3800 },
+                        {
+                            "name": "Malaria",
+                            "children": [{
+                                "name": "Distributed insecticide-treated nets",
+                                "children": [
+                                    { "name": "28.3M people in 17 countries", "value": 3000 },
+                                    { "name": "1.5M in humanitarian situations in 11 countries", "value": 3800 }
+                                ]
+                            }]
+                        }
                     ]
                 },
                 {
@@ -199,7 +208,7 @@
         },
 
         {
-            "name": "visual",
+            "name": "General Statistics",
             "children": [{
                     "name": "axis",
                     "children": [
