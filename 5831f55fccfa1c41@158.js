@@ -8,7 +8,7 @@ export default function define(runtime, observer) {
     main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
     main.variable(observer()).define(["md"], function(md) {
         return (
-            md `# Zoomable Circle Packing
+            md `# Strategic Plans and Statistics 2018
 
 Click to zoom in or out.`
         )
