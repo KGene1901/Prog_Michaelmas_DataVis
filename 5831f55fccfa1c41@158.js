@@ -96,11 +96,11 @@ Click to zoom in or out.`
                 .sort((a, b) => b.value - a.value))
         )
     });
-    //main.variable(observer("width")).define("width", function() {
-    // return (
-    //    932
-    // )
-    //});
+    main.variable(observer("width")).define("width", function() {
+        return (
+            932
+        )
+    });
     main.variable(observer("height")).define("height", ["width"], function(width) {
         return (
             width
