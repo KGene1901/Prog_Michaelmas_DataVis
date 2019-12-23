@@ -38,25 +38,31 @@
                 {
                     "name": "Nutrition",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "3.4M children suffering from malnurition treated", "value": 7074 },
+                        { "name": "255M children received vitamin A supplement", "value": 7074 },
+                        { "name": "15.6M children provided with micronutrient powders", "value": 7074 },
+                        { "name": "23M caregivers on optimal infant feeding practices", "value": 7074 },
+                        { "name": "£78M provided by the UK to tackle malnurition in Yemen", "value": 7074 }
                     ]
                 },
                 {
                     "name": "HIV and AIDS",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "1.1M pregnant women with HIV recieved lifelong treatment", "value": 7074 },
+                        { "name": "HIV treatment rates for children rose to 52% globally ", "value": 7074 }
                     ]
                 },
                 {
                     "name": "Early Childhood Development",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "80 countries have instituionalized ECD delivery services", "value": 7074 }
                     ]
                 },
                 {
                     "name": "Humanitarian Settings",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "UNICEF responded to 87 health emergencies or outbreaks", "value": 7074 },
+                        { "name": "19.6M children received measles vaccination", "value": 7074 }
                     ]
                 }
 
