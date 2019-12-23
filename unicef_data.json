@@ -12,6 +12,8 @@
                             "name": "Malaria",
                             "children": [{
                                 "name": "Distributed insecticide-treated nets",
+                                "value": 3500
+                            }, {
                                 "children": [
                                     { "name": "28.3M people in 17 countries", "value": 3000 },
                                     { "name": "1.5M in humanitarian situations in 11 countries", "value": 3800 }
