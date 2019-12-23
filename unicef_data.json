@@ -5,15 +5,13 @@
             "children": [{
                     "name": "Health",
                     "children": [
-                        { "name": "Support to 23 countries wiht high maternal and neonatal martality", "value": 3940 },
+                        { "name": "Support to 23 countries with high maternal and neonatal martality", "value": 3940 },
                         { "name": "Improve WASH services in 3355 health facilities", "value": 3800 },
                         { "name": "Vaccination of 8.5M women", "value": 3800 },
                         {
                             "name": "Malaria",
                             "children": [{
                                 "name": "Distributed insecticide-treated nets",
-                                "value": 3500
-                            }, {
                                 "children": [
                                     { "name": "28.3M people in 17 countries", "value": 3000 },
                                     { "name": "1.5M in humanitarian situations in 11 countries", "value": 3800 }
