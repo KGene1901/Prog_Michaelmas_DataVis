@@ -23,11 +23,16 @@
                 {
                     "name": "Immunization",
                     "children": [
-                        { "name": "BetweennessCentrality", "value": 3534 },
-                        { "name": "LinkDistance", "value": 5731 },
-                        { "name": "MaxFlowMinCut", "value": 7840 },
-                        { "name": "ShortestPaths", "value": 5914 },
-                        { "name": "SpanningTree", "value": 3416 }
+                        { "name": "Approx 65.5M children vaccinated with DTP", "value": 3000 },
+                        {
+                            "name": "Polio",
+                            "children": [
+                                { "name": "Transmission continues in Afghanistan and Pakistan ", "value": 2500 },
+                                { "name": "€11.6M from Germany", "value": 2500 },
+                                { "name": "UNICEF and CDC signed a 5-year, $180M agreement", "value": 2500 },
+                                { "name": "33 known cases (down from 350,000 in 1988) of paralysis from wild polo virus", "value": 2500 }
+                            ]
+                        }
                     ]
                 },
                 {
