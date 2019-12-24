@@ -220,31 +220,29 @@
             "children": [{
                     "name": "Social Protection",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Governments are encouraged to monitor child poverty ", "value": 3800 },
+                        { "name": "Governments are encouraged to enact social and economic policies ", "value": 3800 },
+                        { "name": "74 countries had mechanisms to measure and report on monetary child poverty", "value": 3800 },
+                        { "name": "75 countries have strong social protection systems", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Adolescent Development",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "33 countries have policies in place to support adolescent development", "value": 3800 },
+                        { "name": "4.2M adolescents were engaged in efforts to increase civic engagement", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Gender Equality",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Providing support to 36 countries so they could implement positive gender socialization programmes", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Children with Disabilities",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
-                    ]
-                },
-                {
-                    "name": "Global Commitment",
-                    "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Supporting children with disabilities in 123 countries", "value": 3800 }
                     ]
                 }
 
