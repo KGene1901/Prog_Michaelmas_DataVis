@@ -38,18 +38,18 @@
                 {
                     "name": "Nutrition",
                     "children": [
-                        { "name": "3.4M children suffering from malnurition treated", "value": 7074 },
-                        { "name": "255M children received vitamin A supplement", "value": 7074 },
-                        { "name": "15.6M children provided with micronutrient powders", "value": 7074 },
-                        { "name": "23M caregivers on optimal infant feeding practices", "value": 7074 },
-                        { "name": "£78M provided by the UK to tackle malnurition in Yemen", "value": 7074 }
+                        { "name": "3.4M children suffering from malnurition treated", "value": 3800 },
+                        { "name": "255M children received vitamin A supplement", "value": 3800 },
+                        { "name": "15.6M children provided with micronutrient powders", "value": 3800 },
+                        { "name": "23M caregivers on optimal infant feeding practices", "value": 3800 },
+                        { "name": "£78M provided by the UK to tackle malnurition in Yemen", "value": 3800 }
                     ]
                 },
                 {
                     "name": "HIV and AIDS",
                     "children": [
-                        { "name": "1.1M pregnant women with HIV recieved lifelong treatment", "value": 7074 },
-                        { "name": "HIV treatment rates for children rose to 52% globally ", "value": 7074 }
+                        { "name": "1.1M pregnant women with HIV recieved lifelong treatment", "value": 3800 },
+                        { "name": "HIV treatment rates for children rose to 52% globally ", "value": 3800 }
                     ]
                 },
                 {
@@ -61,8 +61,8 @@
                 {
                     "name": "Humanitarian Settings",
                     "children": [
-                        { "name": "UNICEF responded to 87 health emergencies or outbreaks", "value": 7074 },
-                        { "name": "19.6M children received measles vaccination", "value": 7074 }
+                        { "name": "UNICEF responded to 87 health emergencies or outbreaks", "value": 3800 },
+                        { "name": "19.6M children received measles vaccination", "value": 3800 }
                     ]
                 }
 
@@ -72,38 +72,53 @@
             "name": "Goal 2: Every Child Learns",
             "children": [{
                     "name": "Learning Outcomes",
-                    "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
-                    ]
+                    "children": [{
+                        "name": "35% of UNICEF supported countries had improved learning outcomes",
+                        "children": [
+                            { "name": "66% had adequate early learning policies, leadership and budget", "value": 2500 },
+                            { "name": "45% had governance and regulatory systems", "value": 2500 },
+                            { "name": "52% had learning learning opportunities with trained teachers", "value": 2500 }
+                        ]
+                    }]
                 },
                 {
                     "name": "Equitable Access to Education",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "11.9M out-of-school children participated in early education", "value": 3800 },
+                        {
+                            "name": "UNICEF supported countries",
+                            "children": [
+                                { "name": "37% had a strategy for making more equal access to education ", "value": 2500 },
+                                { "name": "35% had plans to address unequal educational resource allocation", "value": 2500 },
+                                { "name": "90% had a law establishing the right of all children to receive education", "value": 3000 }
+                            ]
+                        }
                     ]
                 },
                 {
                     "name": "Skills Development",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Skills development for young people in 97 countries", "value": 3800 },
+                        { "name": "Life skills and employability being bolstered in Middle Eastern countries", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Education in Emergencies",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
-                    ]
-                },
-                {
-                    "name": "Education in Emergencies",
-                    "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "6.9M children in humanitarian situations reached with education", "value": 3800 },
+                        {
+                            "name": "Development of a holistic learning assessment tool supported ",
+                            "value": 3800
+                        },
+                        { "name": "UNICEF hosted the fund’s secretariat and helped direct additional resources to underfunded education-in-emergency efforts", "value": 3800 }
+
                     ]
                 },
                 {
                     "name": "Global Commitment",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "More than $2B raised to help provide quality learning to the poorest children", "value": 3800 },
+                        { "name": "World leaders pledged their support for the International Finance Facility for Education", "value": 3800 }
                     ]
                 }
             ]
