@@ -181,31 +181,36 @@
             "children": [{
                     "name": "Water",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "18.6M people with access to safe drinking water", "value": 3800 }
+
                     ]
                 },
                 {
                     "name": "Sanitation and Hygiene",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "10.8M people with access to basic sanitation services", "value": 3800 },
+                        { "name": "7710 schools gained access to gender-segregated sanitation facilities", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Peacebuilding",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "UNICEF worked with other UN agencies in 22 countries through the Peacebuilding Fund", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Urban Programming",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Provided support to urban and rural local governments", "value": 3800 },
+                        { "name": "409 local governments in 32 countries have child-responsive and budgeted plans", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Climate Change",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "51 countries with environmental sustainability activities", "value": 3800 },
+                        { "name": "28 countries have programs that include children efforts to foster climate resilience", "value": 3800 },
+                        { "name": "Development of modules on environmental protection and climate change", "value": 3800 }
                     ]
                 }
             ]
