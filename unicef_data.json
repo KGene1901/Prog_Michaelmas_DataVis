@@ -128,37 +128,50 @@
             "children": [{
                     "name": "Protection from Exploitation",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "2.3M children in 112 countries who had experienced violence supported", "value": 3800 },
+                        { "name": "Services that prevent and respond to child violence strengthened", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Humanitarian Action",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "3.6M children in 59 countries affected by conflict supported", "value": 3800 },
+                        { "name": "Gender-based violence in emergencies received renewed attention", "value": 3800 },
+                        { "name": "13,600 former child soldiers were reintegrated with their families", "value": 3800 },
+                        { "name": "More than 13,000 grave violations of children's rights were documented", "value": 3800 }
+
                     ]
                 },
                 {
                     "name": "Child Marriage",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "4.8M adolescent girls were exposed to programmes aimed to prevent child marriage", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Justice Issues",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Improve access to justice benefited 190,000 children and young people", "value": 3800 },
+                        {
+                            "name": "UNICEF supported capacity-building for justice professionals",
+                            "children": [
+                                { "name": "44% received certification to work with child offenders", "value": 2500 },
+                                { "name": "59% were certified to work with child victims", "value": 2500 }
+                            ]
+                        }
                     ]
                 },
                 {
                     "name": "Strengthening Systems",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Worked with 132 countries to strengthen their social service workforce", "value": 3800 },
+                        { "name": "Helped 115 countries improve the availability and quality of data on child violence", "value": 3800 }
                     ]
                 },
                 {
                     "name": "Global Commitment",
                     "children": [
-                        { "name": "AspectRatioBanker", "value": 7074 }
+                        { "name": "Worked with Sweden on the 2030 Agenda for Children: End Violence Solutions Summit", "value": 3800 }
                     ]
                 }
             ]
