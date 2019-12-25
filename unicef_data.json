@@ -5,7 +5,7 @@
             "children": [{
                     "name": "Health",
                     "children": [
-                        { "name": "Support to 23 countries with high maternal and neonatal martality", "value": 3940 },
+                        { "name": "Support to 23 countries with high maternal and neonatal mortality", "value": 3940 },
                         { "name": "Improve WASH services in 3355 health facilities", "value": 3800 },
                         { "name": "Vaccination of 8.5M women", "value": 3800 },
                         {
@@ -256,11 +256,11 @@
                     "children": [{
                         "name": "About $5.4B spent",
                         "children": [
-                            { "name": "Goal Area 1: $2.1B", "value": 3500 },
-                            { "name": "Goal Area 2: $1.2B", "value": 2500 },
-                            { "name": "Goal Area 3: $658M", "value": 2000 },
-                            { "name": "Goal Area 4: $1B", "value": 2500 },
-                            { "name": "Goal Area 5: $427M", "value": 1500 }
+                            { "name": "Goal Area 1: $2.1B", "value": 4500 },
+                            { "name": "Goal Area 2: $1.2B", "value": 4000 },
+                            { "name": "Goal Area 3: $658M", "value": 3000 },
+                            { "name": "Goal Area 4: $1B", "value": 4000 },
+                            { "name": "Goal Area 5: $427M", "value": 3000 }
                         ]
                     }]
                 },
@@ -272,26 +272,26 @@
                         "children": [{
                                 "name": "Governments and Intergovernmental agencies",
                                 "children": [
-                                    { "name": "Regular resources: $894M (13%)", "value": 2500 },
-                                    { "name": "Other resources: $3,509M (53%)", "value": 3800 }
+                                    { "name": "Regular resources: $894M (13%)", "value": 3800 },
+                                    { "name": "Other resources: $3,509M (53%)", "value": 4000 }
                                 ]
                             }, {
                                 "name": "Private sector and non-governmental organizations",
                                 "children": [{
                                         "name": "Regular resources: $739M (11%)",
-                                        "value": 2000
+                                        "value": 3800
                                     },
-                                    { "name": "Other resources: $722M (11%)", "value": 2000 }
+                                    { "name": "Other resources: $722M (11%)", "value": 3800 }
                                 ]
                             },
 
                             {
                                 "name": "Inter-organizational arrangements",
                                 "children": [
-                                    { "name": "Other resources: $638M (10%)", "value": 2000 }
+                                    { "name": "Other resources: $638M (10%)", "value": 3800 }
                                 ]
                             },
-                            { "name": "Other revenue: $173M (3%)", "value": 1000 }
+                            { "name": "Other revenue: $173M (3%)", "value": 2000 }
                         ]
                     }]
                 }

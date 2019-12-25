@@ -37,7 +37,7 @@ Click to zoom in or out.`
             .on("click", d => focus !== d && (zoom(d), d3.event.stopPropagation()));
 
         const label = svg.append("g")
-            .style("font", "10px sans-serif")
+            .style("font", "bold 8px verdana")
             .attr("pointer-events", "none")
             .attr("text-anchor", "middle")
             .selectAll("text")
@@ -98,12 +98,12 @@ Click to zoom in or out.`
     });
     main.variable(observer("width")).define("width", function() {
         return (
-            932
+            750
         )
     });
     main.variable(observer("height")).define("height", ["width"], function(width) {
         return (
-            width
+            830
         )
     });
     main.variable(observer("format")).define("format", ["d3"], function(d3) {
@@ -115,7 +115,7 @@ Click to zoom in or out.`
         return (
             d3.scaleLinear()
             .domain([0, 5])
-            .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+            .range(["hsl(390,100%,80%)", "hsl(600,40%,70%)"])
             .interpolate(d3.interpolateHcl)
         )
     });
